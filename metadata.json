@@ -1,0 +1,6 @@
+{
+  "name": "Credible Easy",
+  "description": "Secure utility payment, airtime, and data recharging platform with an innovative Buzi Point Trading exchange.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

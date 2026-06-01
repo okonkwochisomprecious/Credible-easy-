@@ -1,0 +1,23 @@
+{
+  "short_name": "CredibleEasy",
+  "name": "Credible Easy - Utility & Airtime Exchange",
+  "description": "Secure utility payment, airtime, and data recharging platform with an innovative Buzi Point Trading exchange.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/10041/10041913.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/10041/10041913.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#f8fafc",
+  "theme_color": "#2563eb",
+  "display": "standalone",
+  "orientation": "portrait"
+}
